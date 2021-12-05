@@ -1,5 +1,5 @@
 let url = window.location.href;
-let swDirect = "/MI_PRIMER_PWA/sw.js"
+let swDirect = "/MI_PWA/sw.js"
 
 
 console.log('hola desde el js');
